@@ -17,6 +17,7 @@ from tqdm import tqdm
 DATASET_PATHS = {
     'original': 'original_sequences',
     'Deepfakes': 'manipulated_sequences/Deepfakes',
+    'NeuralTextures': 'manipulated_sequences/NeuralTextures',
     'Face2Face': 'manipulated_sequences/Face2Face',
     'FaceSwap': 'manipulated_sequences/FaceSwap'
 }

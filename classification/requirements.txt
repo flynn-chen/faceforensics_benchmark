@@ -12,8 +12,8 @@ grpcio==1.14.1
 h5py==2.8.0
 Keras==2.2.0
 Markdown==2.6.11
-mkl-fft==1.0.10
-mkl-random==1.0.2
+mkl-fft
+mkl-random
 munch==2.3.2
 numpy==1.16.2
 nvidia-ml-py3==7.352.0
